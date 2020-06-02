@@ -9,6 +9,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+
+/*
+ * This is the Entity Class for Employee - comment should be here
+ */
 @Entity
 @Table(name="Employee")
 public class Employee {
