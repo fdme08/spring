@@ -1,5 +1,8 @@
 package com.francis.spring.boot.spring.data.rest.entity;
 
+/*
+ * This is the Entity Class for Employee
+ */
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
